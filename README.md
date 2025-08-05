@@ -56,9 +56,9 @@ This project was created as part of **Task 2: Data Visualization and Storytellin
 ---
 
 ## 📌 Submission Details
-- **Internship Task:** Task 2 – Data Visualization & Storytelling
+- **Internship Task:** Task 2 – Data Visualization & Storytelling (** ELEVATE LABS)
 - **Submitted By:** Upal Pramanik
-- **Submission Link:** [GitHub Repo Link] (replace with your repo URL)
+- **Submission Link:** 
 
 ---
 
