@@ -12,13 +12,13 @@ This project was created as part of **Task 2: Data Visualization and Storytellin
 
 ---
 
-🛠 Tools Used
+## 🛠 Tools Used
 - **Power BI Desktop** (for data cleaning, modeling & dashboard creation)
 - **Microsoft Excel** (initial preprocessing)
 
 ---
 
-📊 Dashboard Features
+## 📊 Dashboard Features
 - **Sales & Profit Trends** across time
 - **Sales by Ship Mode**, Category, Sub-Category
 - **Top 5 Profitable Sub-Categories**
@@ -30,7 +30,7 @@ This project was created as part of **Task 2: Data Visualization and Storytellin
 
 ---
 
-📖 Storytelling Summary (Insights)
+## 📖 Storytelling Summary (Insights)
 - **Technology** and **Office Supplies** are the highest profit-generating categories.
 - **Copiers** lead among sub-categories with highest profit (~₹43K).
 - **Standard Class** accounts for 58% of shipping, showing customer preference.
@@ -40,7 +40,7 @@ This project was created as part of **Task 2: Data Visualization and Storytellin
 
 ---
 
-✅ Key Business Takeaways
+## ✅ Key Business Takeaways
 - Promote **Copiers and Phones** as flagship products.
 - Focus marketing efforts in **underperforming regions**.
 - Optimize **shipping methods** to reduce costs and improve delivery.
@@ -48,14 +48,14 @@ This project was created as part of **Task 2: Data Visualization and Storytellin
 
 ---
 
-📎 Files Included
+## 📎 Files Included
 - `Superstore Sales Dashboard.pbix` – Power BI dashboard file
 - `Superstore Sales Dashboard.pdf` – Final visual report with insights
 - `README.md` – Project overview and explanation
 
 ---
 
-📌 Submission Details
+## 📌 Submission Details
 - **Internship Task:** Task 2 – Data Visualization & Storytelling
 - **Submitted By:** Upal Pramanik
 - **Submission Link:** [GitHub Repo Link] (replace with your repo URL)
