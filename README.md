@@ -25,6 +25,8 @@ This project was created as part of **Task 2: Data Visualization and Storytellin
 - **Regional Performance** (Sales & Profit by State)
 - **Return Rates**
 - **Customer Segments & Payment Modes**
+  <img width="1988" height="1143" alt="Screenshot 2025-08-05 115752" src="https://github.com/user-attachments/assets/0f8ac6ad-e479-4fb9-b0c7-d4a49ef942e6" />
+
 - **Order Summary Table**
 - **KPI Cards & Filters** for interaction
 
@@ -58,7 +60,7 @@ This project was created as part of **Task 2: Data Visualization and Storytellin
 ## 📌 Submission Details
 - **Internship Task:** Task 2 – Data Visualization & Storytelling (** ELEVATE LABS)
 - **Submitted By:** Upal Pramanik
-- **Submission Link:** 
+- **Submission Link:** https://github.com/upal04/Super-Store-Sales-Dashboard
 
 ---
 
